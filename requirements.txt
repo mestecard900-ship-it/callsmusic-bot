@@ -1,6 +1,6 @@
 pyrogram==2.0.106
-pytgcalls==3.0.0.dev21
-PyNaCl
+tgcrypto
+pytgcalls
 yt-dlp
 ffmpeg-python
 aiohttp
@@ -8,3 +8,4 @@ aiofiles
 python-dotenv
 requests
 pydub
+PyNaCl
